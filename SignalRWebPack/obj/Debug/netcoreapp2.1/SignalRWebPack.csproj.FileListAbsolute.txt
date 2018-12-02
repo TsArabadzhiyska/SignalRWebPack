@@ -1,0 +1,28 @@
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.deps.json
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.json
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.dev.json
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.dll
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.pdb
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csprojAssemblyReference.cache
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cache
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cs
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfoInputs.cache
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfo.cs
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.dll
+D:\01.Университет\Втори курс\Есенен триместър\Събитийно програмране\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.pdb
+D:\Projects\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.deps.json
+D:\Projects\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.json
+D:\Projects\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.dev.json
+D:\Projects\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.dll
+D:\Projects\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.pdb
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csprojAssemblyReference.cache
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cache
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cs
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfoInputs.cache
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfo.cs
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.dll
+D:\Projects\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.pdb
